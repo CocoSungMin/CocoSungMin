@@ -7,3 +7,5 @@ I'm Undergraduated Research Assistant in VMRLAB Gachon Uni. Republic of Korea Su
 
 Contact : yugioh0326@gmail.com
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CocoSungMin)](https://github.com/anuraghazra/github-readme-stats)
+
