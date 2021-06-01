@@ -5,7 +5,7 @@ I'm Undergraduated Research Assistant in VMRLAB Gachon Uni. Republic of Korea Su
 2. Deep learning ( Segmentation )
 3. Mixed reality 
 
-Contact : yugioh0326@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yugioh0326@gmail.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CocoSungMin)](https://github.com/anuraghazra/github-readme-stats)
 
