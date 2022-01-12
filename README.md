@@ -1,9 +1,12 @@
 # Welcome to Sungmin Lee's Github   
-I'm Undergraduated Research Assistant in Visualization and Mixed Rearity Lab Gachon Uni. Republic of Korea Sungnam city.
-# Interests
-1. Visualization ( Surface & volume rendering )
-2. Deep learning ( Segmentation )
-3. Mixed reality 
+I'm graduated Research Assistant in Visualization of Medical image(or Mixed Rearity) Lab Gachon Uni. Republic of Korea.
+First of all I would like to express my appreciation to your attention for my works.
+My M.S course starts at Mar. 2022 in School of A.I, Gachon Univ., Republic of Korea.
+# Research Area
+1. Visualization ( Direct Volume Rendering )
+2. Deep learning ( Medical image Segmentation )
+3. Mixed reality ( TBA )
+
 
 <div align=center>
 
