@@ -8,6 +8,7 @@ My M.S course starts at Mar. 2022 in School of A.I, Gachon Univ., Republic of Ko
 2. Deep learning ( Medical image Segmentation )
 3. Mixed reality ( TBA )
 
+# On-going works
 (2024.6 ~ )
 Hey guys, welcome to my git profile.
 Recently, I work with the medical Ai company called Radisen.
