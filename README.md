@@ -1,4 +1,5 @@
 # Welcome to Sungmin Lee's Github   
+(2021 ~ 2024.2)
 I'm graduated Research Assistant in Visualization of Medical image(or Mixed Rearity) Lab Gachon Uni. Republic of Korea.
 First of all I would like to express my appreciation to your attention for my works.
 My M.S course starts at Mar. 2022 in School of A.I, Gachon Univ., Republic of Korea.
@@ -6,6 +7,14 @@ My M.S course starts at Mar. 2022 in School of A.I, Gachon Univ., Republic of Ko
 1. Visualization ( Direct Volume Rendering )
 2. Deep learning ( Medical image Segmentation )
 3. Mixed reality ( TBA )
+
+(2024.6 ~ )
+Hey guys, welcome to my git profile.
+Recently, I work with the medical Ai company called Radisen.
+My job is to develop AI model to predict, analyze, and process the medical data.
+Currently, me and my team hardly work on pathology and oncology to achieve new finding from cancer.
+Feel free to contact me!
+Thank you!
 
 
 <div align=center>
