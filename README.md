@@ -1,5 +1,5 @@
 # Welcome to Sungmin Lee's Github   
-Hello everyone, I'm Sungmin Lee, <b>Senior research developer, department of R&D, Purple.AI Inc., Republic of Korea<b>. <br>
+Hello everyone, I'm Sungmin Lee, <b>Senior research developer, department of R&D, Purple.AI Inc., Republic of Korea</b>. <br>
 Currently I am working on detection of brain hemorrhage, infarct, and aneurysm as a Medical vision Senior research developer. <br>
 My main role of the team is gathering, processing, structuring, and validating the given diseases with computer vision techniques for NCCT and CTA Volumes. <br>
 Furthermore, I am working with medical volume 3D graphics with direct volume rendering and surface rendering for our framework results. 
